@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="48" viewBox="0 0 64 48">
+  <g id="Group_35695" data-name="Group 35695" transform="translate(-1554 -733.521)">
+    <rect id="Rectangle_3558" data-name="Rectangle 3558" width="64" height="48" transform="translate(1554 733.521)" fill="none"/>
+    <g id="noun-podcast-3424318" transform="translate(1378.666 733.999)">
+      <path id="Path_37013" data-name="Path 37013" d="M277.2,22.052V7.352a7.35,7.35,0,0,0-14.7,0v14.7a7.35,7.35,0,0,0,14.7,0Zm-11.761,0V7.352a4.41,4.41,0,0,1,8.82,0v14.7a4.41,4.41,0,0,1-8.82,0Z" transform="translate(-62.517 0)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+      <path id="Path_37014" data-name="Path 37014" d="M194.25,192.5v5.88a13.084,13.084,0,0,0,11.614,13,1.343,1.343,0,0,0,0,.235v8.82h-5.88c-1.533,0-1.646,2.94,0,2.94h14.7c1.607,0,1.423-2.94,0-2.94H208.8v-8.82a1.337,1.337,0,0,0,0-.235,13.084,13.084,0,0,0,11.614-13v-5.486c0-1.508-2.646-1.377-2.646,0v5.486a10.438,10.438,0,1,1-20.875,0V192.5C196.9,191.026,194.25,190.964,194.25,192.5Z" transform="translate(0 -176.328)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <filter id="Rectangle_1504" x="-760.327" y="573.674" width="32.765" height="32.751" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3448" x="-759.165" y="488.833" width="30.333" height="23.667" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_161" data-name="Ellipse 161" cx="32.5" cy="32.5" r="32.5" transform="translate(15482 -6740)" fill="#fff"/>
+    </clipPath>
+    <filter id="Subtraction_8" x="-772.501" y="561.5" width="57.001" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Subtraction_4" x="-772.501" y="381.5" width="57.001" height="57.001" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Subtraction_5" x="-772.501" y="471.5" width="57.001" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-5"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_262" data-name="Mask Group 262" transform="translate(-15482 6740)" clip-path="url(#clip-path)">
+    <g id="Group_35682" data-name="Group 35682" transform="translate(0 -726)">
+      <path id="Path_37010" data-name="Path 37010" d="M0,0H1920V1000H0Z" transform="translate(13700 -6033)" fill="#181c21" opacity="0.2"/>
+      <g id="Group_35680" data-name="Group 35680" transform="translate(13718 -5959)">
+        <text id="Home" transform="translate(150 45)" fill="#ffa000" font-size="55" font-family="Poppins"><tspan x="0" y="58">Home</tspan></text>
+        <text id="About_Basanta" data-name="About Basanta" transform="translate(150 141)" fill="#fff" font-size="55" font-family="Poppins"><tspan x="0" y="58">About Basanta</tspan></text>
+        <text id="books" transform="translate(150 237)" fill="#fff" font-size="55" font-family="Poppins"><tspan x="0" y="58">Books</tspan></text>
+        <text id="music" transform="translate(150 333)" fill="#fff" font-size="55" font-family="Poppins"><tspan x="0" y="58">Music</tspan></text>
+        <text id="Video" transform="translate(150 429)" fill="#fff" font-size="55" font-family="Poppins"><tspan x="0" y="58">Video</tspan></text>
+        <text id="Podcast" transform="translate(150 525)" fill="#fff" font-size="55" font-family="Poppins"><tspan x="0" y="58">Podcast</tspan></text>
+        <text id="Events" transform="translate(150 621)" fill="#fff" font-size="55" font-family="Poppins"><tspan x="0" y="58">Events</tspan></text>
+        <text id="In_press" data-name="In press" transform="translate(150 717)" fill="#fff" font-size="55" font-family="Poppins"><tspan x="0" y="58">In Press</tspan></text>
+      </g>
+      <rect id="Rectangle_3548" data-name="Rectangle 3548" width="836" height="796" transform="translate(14634 -5899)" fill="#83142e"/>
+      <g id="Group_35679" data-name="Group 35679" transform="translate(13704 -6024)">
+        <text id="social_media" data-name="social media" transform="translate(1010 718)" fill="#fff" font-size="32" font-family="Poppins"><tspan x="0" y="0">Social Media</tspan></text>
+        <g id="Group_35663" data-name="Group 35663" transform="translate(0 -45)">
+          <text id="Basant_Chaudhary" data-name="Basant Chaudhary" transform="translate(1058.999 795)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="21">Basant Chaudhary</tspan></text>
+          <path id="Path_181" data-name="Path 181" d="M32,16A16,16,0,1,0,16,32h.281V19.542H12.844V15.536h3.437V12.588c0-3.419,2.088-5.28,5.137-5.28a28.3,28.3,0,0,1,3.082.157v3.571H22.4c-1.659,0-1.981.788-1.981,1.946v2.551h3.967l-.521,4.008h-3.45V31.383A16.008,16.008,0,0,0,32,16Zm0,0" transform="translate(1009.999 793.999)" fill="#fff"/>
+        </g>
+        <g id="Group_35666" data-name="Group 35666" transform="translate(0 -45)">
+          <text id="_basant_cg" data-name="@basant_cg" transform="translate(1413 795)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="21">@basant_cg</tspan></text>
+          <path id="Path_36851" data-name="Path 36851" d="M16,0A16,16,0,1,0,32,16,16,16,0,0,0,16,0Zm7.306,12.475q.011.237.011.474A10.377,10.377,0,0,1,12.867,23.4h0a10.394,10.394,0,0,1-5.629-1.649,7.47,7.47,0,0,0,.876.051,7.368,7.368,0,0,0,4.561-1.572,3.678,3.678,0,0,1-3.43-2.552,3.66,3.66,0,0,0,1.658-.063,3.678,3.678,0,0,1-2.95-3.6c0-.017,0-.032,0-.047a3.647,3.647,0,0,0,1.663.459A3.678,3.678,0,0,1,8.484,9.523a10.426,10.426,0,0,0,7.57,3.837,3.678,3.678,0,0,1,6.263-3.349,7.365,7.365,0,0,0,2.332-.895,3.687,3.687,0,0,1-1.615,2.031,7.324,7.324,0,0,0,2.108-.579A7.463,7.463,0,0,1,23.3,12.475Zm0,0" transform="translate(1365.001 794)" fill="#fff"/>
+        </g>
+        <g id="Group_35664" data-name="Group 35664" transform="translate(0 -45)">
+          <text id="basant.chaudhary" transform="translate(1058 851)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="21">Basant.Chaudhary</tspan></text>
+          <path id="Subtraction_2" data-name="Subtraction 2" d="M16,32A16,16,0,0,1,4.686,4.686,16,16,0,1,1,27.314,27.313,15.9,15.9,0,0,1,16,32ZM11.513,6.024a5.5,5.5,0,0,0-5.486,5.491v8.974a5.493,5.493,0,0,0,5.486,5.486h8.975a5.493,5.493,0,0,0,5.488-5.486V11.515a5.5,5.5,0,0,0-5.488-5.491Zm8.975,17.951H11.513a3.491,3.491,0,0,1-3.487-3.486V11.515a3.493,3.493,0,0,1,3.487-3.491h8.975a3.494,3.494,0,0,1,3.489,3.491v8.974A3.492,3.492,0,0,1,20.488,23.975Zm-4.448-12.6a4.636,4.636,0,0,0-.673.05,4.59,4.59,0,0,0,.663,9.13,4.946,4.946,0,0,0,.684-.05,4.59,4.59,0,0,0,0-9.08A4.636,4.636,0,0,0,16.04,11.371Zm4.908-1.309a1.025,1.025,0,0,0-.708.289.983.983,0,0,0-.3.714,1,1,0,0,0,.078.383.874.874,0,0,0,.213.314.973.973,0,0,0,.71.3.985.985,0,0,0,1-1,.967.967,0,0,0-.291-.706,1.509,1.509,0,0,0-.123-.109l0,0L21.3,10.13l-.173-.052A.99.99,0,0,0,20.948,10.062ZM16.037,18.55a2.589,2.589,0,1,1,0-5.179,2.449,2.449,0,0,1,.379.028,2.589,2.589,0,0,1,0,5.122A2.357,2.357,0,0,1,16.037,18.55Z" transform="translate(1010 850)" fill="#fff"/>
+        </g>
+        <g id="Group_35665" data-name="Group 35665" transform="translate(0 -45)">
+          <text id="Cg_Entertainment" data-name="Cg Entertainment" transform="translate(1412.998 851)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="21">CG Entertainment</tspan></text>
+          <g id="Group_35615" data-name="Group 35615" transform="translate(35 396)">
+            <path id="Subtraction_9" data-name="Subtraction 9" d="M-12206,4118a15.9,15.9,0,0,1-11.313-4.686A15.894,15.894,0,0,1-12222,4102a15.892,15.892,0,0,1,4.686-11.311A15.9,15.9,0,0,1-12206,4086a15.893,15.893,0,0,1,11.312,4.685A15.9,15.9,0,0,1-12190,4102a15.9,15.9,0,0,1-4.685,11.313A15.893,15.893,0,0,1-12206,4118Zm0-22.5a58.046,58.046,0,0,0-7.423.39,2.347,2.347,0,0,0-1.678,1.644,23.8,23.8,0,0,0-.4,4.478,23.81,23.81,0,0,0,.4,4.479,2.337,2.337,0,0,0,1.678,1.619,58.046,58.046,0,0,0,7.423.39,58.125,58.125,0,0,0,7.427-.39,2.337,2.337,0,0,0,1.678-1.619,23.985,23.985,0,0,0,.4-4.479,23.978,23.978,0,0,0-.4-4.478,2.347,2.347,0,0,0-1.678-1.644A58.125,58.125,0,0,0-12206,4095.5Zm-1.941,9.26h0v-5.5l4.966,2.749-4.965,2.748Z" transform="translate(13552 -3632)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="Contact_Us" data-name="Contact Us" transform="translate(1010 240)" fill="#fff" font-size="40" font-family="Poppins"><tspan x="0" y="0">Contact Us</tspan></text>
+        <g id="Group_35610" data-name="Group 35610" transform="translate(-357.999 -192)">
+          <g transform="matrix(1, 0, 0, 1, 2136, 202)" filter="url(#Subtraction_8)">
+            <path id="Subtraction_8-2" data-name="Subtraction 8" d="M-8634,48a23.844,23.844,0,0,1-16.97-7.03A23.841,23.841,0,0,1-8658,24a23.841,23.841,0,0,1,7.029-16.97A23.844,23.844,0,0,1-8634,0a23.841,23.841,0,0,1,16.972,7.03A23.837,23.837,0,0,1-8610,24a23.837,23.837,0,0,1-7.03,16.97A23.841,23.841,0,0,1-8634,48Zm-6.342-17.557h0v4.437a.929.929,0,0,0,1.034,1.043h10.708a.935.935,0,0,0,1.048-1.057V30.443l.895,0,.874,0c.4,0,.73,0,1.039-.009a2.7,2.7,0,0,0,2.663-2.607c.012-1.291.018-2.514.018-3.636V23.2c0-1.187-.006-2.483-.018-3.85a2.608,2.608,0,0,0-2.269-2.549,13.8,13.8,0,0,0-1.468-.064l-.49,0-.432,0-.43,0h-.383V16.4q0-1.612,0-3.225a.915.915,0,0,0-.991-1h-10.791a.919.919,0,0,0-1.006,1.014q0,1.075,0,2.15v1.405h-2.68a2.72,2.72,0,0,0-2.8,2.8c0,3.128,0,5.7,0,8.106a3.173,3.173,0,0,0,.146.924,2.719,2.719,0,0,0,2.566,1.872c.324,0,.673.006,1.1.006l.814,0h.019Zm10.949,3.633h-9.1V25.889h9.1v8.186Zm-4.557-3.632-1.742,0a.913.913,0,0,0-.993.9.867.867,0,0,0,.245.63,1.033,1.033,0,0,0,.739.291h3.483a1.062,1.062,0,0,0,.766-.293.862.862,0,0,0,.244-.629.92.92,0,0,0-1-.9Zm0-2.741-1.757,0a1.021,1.021,0,0,0-.734.282.869.869,0,0,0-.247.636.92.92,0,0,0,1,.907h3.483a.923.923,0,0,0,1-.907.882.882,0,0,0-.248-.634,1.023,1.023,0,0,0-.736-.285Zm-6.395.916h-1.793c-.3,0-.6,0-.9,0a.91.91,0,0,1-.965-.971V19.538a.906.906,0,0,1,.965-.968q4.541,0,9.091,0t9.092,0a.9.9,0,0,1,.95.953c0,2.7,0,5.433,0,8.132a.918.918,0,0,1-.8.953,1.649,1.649,0,0,1-.205.009h-2.646v-3.5a.94.94,0,0,0-1.062-1.072h-10.679a.932.932,0,0,0-1.049,1.055v3.514Zm13.7-8.221a.923.923,0,0,0-.905.907.917.917,0,0,0,.9.916h.012a.9.9,0,0,0,.645-.269.909.909,0,0,0,.269-.652.917.917,0,0,0-.916-.9Zm-2.747-3.679h-9.108v-2.7h9.108v2.7Z" transform="translate(7890 564)" fill="#fff"/>
+          </g>
+          <g id="Group_35606" data-name="Group 35606" transform="translate(10 -40)">
+            <text id="fax" transform="translate(1422 806)" fill="#ffa000" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="17">Fax</tspan></text>
+            <text id="_9771_4226293" data-name="+9771 4226293" transform="translate(1422 832)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="21">+9771 4226293</tspan></text>
+          </g>
+        </g>
+        <g id="Group_35608" data-name="Group 35608" transform="translate(-357.999 -193)">
+          <g id="Group_35604" data-name="Group 35604" transform="translate(10)">
+            <text id="Telephone" transform="translate(1422 587)" fill="#ffa000" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="17">Telephone</tspan></text>
+            <text id="_9771_4249906_4219575" data-name="+ 9771 4249906, 4219575" transform="translate(1422 613)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="21">+ 9771 4249906, 4219575</tspan></text>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 2136, 203)" filter="url(#Subtraction_4)">
+            <path id="Subtraction_4-2" data-name="Subtraction 4" d="M-8634,48a23.846,23.846,0,0,1-16.973-7.03A23.843,23.843,0,0,1-8658,24a23.84,23.84,0,0,1,7.029-16.97A23.848,23.848,0,0,1-8634,0a23.845,23.845,0,0,1,16.971,7.029A23.844,23.844,0,0,1-8610,24a23.847,23.847,0,0,1-7.028,16.971A23.843,23.843,0,0,1-8634,48Zm-5.293-34.012a2.262,2.262,0,0,0-1.564.674l-.009.009-1.562,1.569a3.334,3.334,0,0,0-1,2.129,7.944,7.944,0,0,0,.589,3.394,19.633,19.633,0,0,0,3.516,5.841,21.6,21.6,0,0,0,7.2,5.615,11.309,11.309,0,0,0,4.044,1.189l.073,0c.068,0,.146.007.218.007a3.464,3.464,0,0,0,2.65-1.136.046.046,0,0,1,.008-.01.02.02,0,0,0,.01-.012,9.917,9.917,0,0,1,.738-.763l.068-.065c.2-.194.4-.385.6-.591a2.28,2.28,0,0,0,.693-1.584,2.19,2.19,0,0,0-.706-1.569l-2.524-2.523a2.147,2.147,0,0,0-1.554-.708,2.221,2.221,0,0,0-1.571.7l-1.453,1.443c-.067-.037-.133-.071-.211-.11l-.058-.03-.086-.045a5.117,5.117,0,0,1-.454-.241,15.793,15.793,0,0,1-3.783-3.433,9.233,9.233,0,0,1-1.24-1.949c.336-.308.653-.627.96-.935l.026-.027.08-.081c.126-.128.257-.261.385-.389a2.233,2.233,0,0,0,.724-1.583,2.234,2.234,0,0,0-.724-1.583l-1.254-1.249c-.118-.118-.28-.279-.428-.435-.252-.26-.552-.564-.865-.852A2.176,2.176,0,0,0-8639.292,13.989Zm11.512,19.2c-.066,0-.142,0-.211,0a9.965,9.965,0,0,1-3.585-1.071,20.418,20.418,0,0,1-6.784-5.289,18.532,18.532,0,0,1-3.309-5.489,6.464,6.464,0,0,1-.516-2.864,2.086,2.086,0,0,1,.635-1.358l1.566-1.562a1.05,1.05,0,0,1,.7-.324.98.98,0,0,1,.669.319.033.033,0,0,1,.01.009l.006.006c.277.258.538.524.827.819.05.052.1.1.153.156l.07.071.068.069.146.148,1.253,1.249a1.024,1.024,0,0,1,.367.708,1.028,1.028,0,0,1-.367.711l-.054.054c-.105.106-.225.226-.342.339-.438.45-.794.794-1.153,1.117l-.009.008a.037.037,0,0,0-.013.014.923.923,0,0,0-.239,1.039l0,.006.006.021,0,.014a10.065,10.065,0,0,0,1.484,2.412l0,0a16.877,16.877,0,0,0,4.083,3.7,6.077,6.077,0,0,0,.535.291l.009,0,.021.01.021.01c.157.079.306.154.436.233l.027.015.027.015a.983.983,0,0,0,.454.115.993.993,0,0,0,.7-.311l0,0,1.573-1.567a1.037,1.037,0,0,1,.693-.343.937.937,0,0,1,.66.335.034.034,0,0,1,.011.009l2.532,2.523a.9.9,0,0,1,0,1.432c-.15.161-.3.309-.465.466l-.01.01-.086.083a12.547,12.547,0,0,0-.887.915A2.222,2.222,0,0,1-8627.78,33.186Z" transform="translate(7890 384)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_35621" data-name="Group 35621" transform="translate(-324 -551)">
+          <g id="Group_35611" data-name="Group 35611" transform="translate(-33.999 -18)">
+            <g id="Group_35607" data-name="Group 35607" transform="translate(10)">
+              <text id="Address" transform="translate(1422 855)" fill="#ffa000" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="17">Addres</tspan></text>
+              <text id="Consulate_of_the_Kingdom_of_Morocco_to_Nepal_BLC_Building_Thapathali_Kathmandu_Nepal" data-name="Consulate of the Kingdom of Morocco to Nepal BLC Building, Thapathali, Kathmandu, Nepal" transform="translate(1422 881)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="21">Consulate Of The Kingdom Of Morocco To Nepal BLC </tspan><tspan x="0" y="51">Building, Thapathali, Kathmandu, Nepal</tspan></text>
+            </g>
+          </g>
+          <g id="Group_35614" data-name="Group 35614" transform="translate(-8680 -123)">
+            <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="24" cy="24" rx="24" ry="24" transform="translate(10014 960)" fill="#fff"/>
+            <g id="Group_35614-2" data-name="Group 35614" transform="translate(10031.06 974.088)">
+              <path id="Path_37005" data-name="Path 37005" d="M353.934,441.849a3.9,3.9,0,0,1-.5-.421,41.037,41.037,0,0,1-4.512-6.265,18,18,0,0,1-1.81-4.11,7.3,7.3,0,0,1,5.969-9.3c.206-.031.413-.053.62-.08h.787c.2.026.4.046.6.078a7.159,7.159,0,0,1,5.717,4.395,7.054,7.054,0,0,1,.272,4.909,18.2,18.2,0,0,1-1.8,4.093,41.032,41.032,0,0,1-4.548,6.312,3.492,3.492,0,0,1-.477.391Zm.154-1.672c.043-.048.067-.071.086-.1.923-1.225,1.877-2.429,2.759-3.683a21.9,21.9,0,0,0,2.454-4.451,8.318,8.318,0,0,0,.673-2.717,5.639,5.639,0,0,0-.9-3.407,5.833,5.833,0,0,0-5.681-2.8,5.476,5.476,0,0,0-3.425,1.552,5.818,5.818,0,0,0-1.746,5.845,14.558,14.558,0,0,0,1.578,3.779,38.7,38.7,0,0,0,3.4,4.985c.258.329.527.649.8.99" transform="translate(-346.8 -421.671)" fill="#83142e" stroke="#83142e" stroke-width="0.6"/>
+              <path id="Path_37006" data-name="Path 37006" d="M424.073,502.7a3.678,3.678,0,1,1,3.686-3.631,3.677,3.677,0,0,1-3.686,3.631m.022-6.035a2.356,2.356,0,1,0,2.358,2.352,2.361,2.361,0,0,0-2.358-2.352" transform="translate(-416.804 -491.717)" fill="#83142e" stroke="#83142e" stroke-width="0.6"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_35622" data-name="Group 35622" transform="translate(-324 -189)">
+          <g id="Group_35609" data-name="Group 35609" transform="translate(-33.999 -3)">
+            <g id="Group_35605" data-name="Group 35605" transform="translate(10 -65)">
+              <text id="Email" transform="translate(1422 741)" fill="#ffa000" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="17">Emai</tspan></text>
+              <text id="consul.morocco_blc.com.np" data-name="consul.morocco@blc.com.np" transform="translate(1422 767)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="21">Consul.Morocco@Blc.Com.Np</tspan></text>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2136, 202)" filter="url(#Subtraction_5)">
+              <path id="Subtraction_5-2" data-name="Subtraction 5" d="M-8634,48a23.844,23.844,0,0,1-16.97-7.03A23.841,23.841,0,0,1-8658,24a23.841,23.841,0,0,1,7.029-16.97A23.844,23.844,0,0,1-8634,0a23.841,23.841,0,0,1,16.972,7.03A23.837,23.837,0,0,1-8610,24a23.837,23.837,0,0,1-7.03,16.97A23.841,23.841,0,0,1-8634,48Zm-8.817-30.662a1.8,1.8,0,0,0-1.473.76,4.979,4.979,0,0,0-.376.869v11.4l.021.026A1.906,1.906,0,0,0-8642.793,32h.152l.05,0c.29-.006.607-.009.971-.009.324,0,.648,0,.973,0s.65,0,.975,0h14.511a1.875,1.875,0,0,0,1.323-.589,1.79,1.79,0,0,0,.5-1.294c.012-3.614.012-7.279,0-10.893a1.983,1.983,0,0,0-.2-.84,1.833,1.833,0,0,0-1.658-1.046h-.017a.945.945,0,0,0-.128.006h-17.478Zm17.2,13.421h-16.771l5.261-5.247c.121.119.236.233.35.346l.232.233.27.27c.023.026.05.052.081.081a3.17,3.17,0,0,0,2.2.874,3.151,3.151,0,0,0,2.246-.926c.2-.184.38-.37.575-.567l.047-.048c.085-.086.171-.172.26-.26l5.254,5.242Zm-17.782-.837V19.431l5.277,5.235-5.274,5.253Zm18.811-.015,0,0-5.35-5.19,5.3-5.261.043.029.006,10.421Zm-9.408-3.8a1.9,1.9,0,0,1-1.393-.6l-6.987-6.8c-.023-.022-.046-.045-.074-.076l-.006-.005-.024-.026-.032-.035,17.018.009c-.026.028-.047.053-.062.071a1.033,1.033,0,0,1-.082.088c-1.926,1.875-4.07,3.96-6.956,6.759-.048.054-.1.1-.146.145A1.894,1.894,0,0,1-8634,26.108Z" transform="translate(7890 474)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <line id="Line_104" data-name="Line 104" x2="199" transform="translate(13871.5 -5834.5)" fill="none" stroke="#ffa000" stroke-linecap="round" stroke-width="5"/>
+      <g id="Group_35681" data-name="Group 35681" transform="translate(13751.995 -6034)">
+        <line id="Line_100" data-name="Line 100" x2="19.842" transform="translate(1752.505 60.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        <line id="Line_105" data-name="Line 105" x2="13.829" transform="translate(1758.505 51.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        <line id="Line_102" data-name="Line 102" x2="23.45" transform="translate(1748.505 43.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
